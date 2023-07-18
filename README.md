@@ -1,4 +1,4 @@
-# Telegram Holidays Bot
+# TelegramHolidaysBot
 
 Этот проект представляет собой бот для Telegram, который парсит веб-сайт https://kakoysegodnyaprazdnik.ru/, чтобы получать информацию о праздниках и отправлять ее пользователям в Telegram.
 
